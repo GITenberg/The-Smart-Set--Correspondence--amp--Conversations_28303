@@ -1,0 +1,36 @@
+_repo: The-Smart-Set--Correspondence--amp--Conversations_28303
+_version: 0.1.0
+alternative_title: 'The Smart Set: Correspondence and Conversations'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitch, Clyde
+    alias: Fitch, William Clyde
+    birthdate: 1865
+    deathdate: 1909
+    gutenberg_agent_id: '6533'
+    url: http://www.gutenberg.org/2009/agents/6533
+    wikipedia: http://en.wikipedia.org/wiki/Clyde_Fitch
+description: ''
+gutenberg_issued: '2009-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28303'
+  lccn: 06041108
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Conversation -- Fiction'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Imaginary letters'
+tableOfContents: The Makeway ball --  The plaintiff --  The summer --  The children
+  --  Maternity --  A letter of introduction --  Wagner, 1897 --  Art --  Sorrow --  The
+  theatre --  The opera --  A perfect day --  The Westington's Bohemian dinner --  The
+  gamblers.
+title: 'The Smart Set: Correspondence & Conversations'
+url: http://www.gutenberg.org/ebooks/28303
